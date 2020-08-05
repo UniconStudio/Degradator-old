@@ -1,0 +1,4 @@
+#Mon Apr 06 21:46:34 EEST 2020
+base.0=D\:\\Projects\\Degradatorold\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

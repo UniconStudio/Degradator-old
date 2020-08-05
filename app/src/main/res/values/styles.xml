@@ -1,0 +1,13 @@
+<resources>
+	<style	name="AppTheme"	parent="android:style/Theme.Holo.Light.DarkActionBar"/>
+	<style	name="NoActionBar"	parent="android:style/Theme.Holo.Light.NoActionBar"/>
+	<style	name="FullScreen"	parent="android:style/Theme.Holo.Light.NoActionBar.Fullscreen"/>
+	<style	name="NoStatusBar"	parent="AppTheme">
+		<item	name="android:windowFullscreen">true</item>
+	</style>
+	<!--style name="AppTheme" parent="Theme.AppCompat.Light">
+		<item name="colorPrimary">#212121</item>
+        <item name="colorPrimaryDark">#212121</item>
+        <item name="colorAccent">#212121</item>
+	</style-->
+</resources>
